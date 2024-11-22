@@ -1,0 +1,1 @@
+Developed a Virtual Assistant for the Visually Impaired with a responsive design to provide an intuitive interface for users. Implemented innovative features like voice-guided navigation and obstacle detection to enhance accessibility and independence for individuals with visual impairments.
